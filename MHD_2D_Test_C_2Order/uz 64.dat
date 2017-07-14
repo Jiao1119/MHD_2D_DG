@@ -1,0 +1,70 @@
+ VARIABLES="X","Y","uz"
+ ZONE F=POINT, I=                    64 J=                    64
+ tn=   1.00000000000000     
+ nx=                    64 ny=                    64
+ L1-rh=  0.000000000000000E+000   order=                Infinity
+ Linf-rh=  0.000000000000000E+000   order=                Infinity
+ L2-rh=  0.000000000000000E+000   order=                Infinity
+ VARIABLES="X","Y","uz"
+ ZONE F=POINT, I=                    64 J=                    64
+ tn=   2.00000000000000     
+ nx=                    64 ny=                    64
+ L1-rh=  0.000000000000000E+000   order=                     NaN
+ Linf-rh=  0.000000000000000E+000   order=                     NaN
+ L2-rh=  0.000000000000000E+000   order=                     NaN
+ VARIABLES="X","Y","uz"
+ ZONE F=POINT, I=                    64 J=                    64
+ tn=   3.00000000000000     
+ nx=                    64 ny=                    64
+ L1-rh=  0.000000000000000E+000   order=                     NaN
+ Linf-rh=  0.000000000000000E+000   order=                     NaN
+ L2-rh=  0.000000000000000E+000   order=                     NaN
+ VARIABLES="X","Y","uz"
+ ZONE F=POINT, I=                    64 J=                    64
+ tn=   4.00000000000000     
+ nx=                    64 ny=                    64
+ L1-rh=  0.000000000000000E+000   order=                     NaN
+ Linf-rh=  0.000000000000000E+000   order=                     NaN
+ L2-rh=  0.000000000000000E+000   order=                     NaN
+ VARIABLES="X","Y","uz"
+ ZONE F=POINT, I=                    64 J=                    64
+ tn=   5.00000000000000     
+ nx=                    64 ny=                    64
+ L1-rh=  0.000000000000000E+000   order=                     NaN
+ Linf-rh=  0.000000000000000E+000   order=                     NaN
+ L2-rh=  0.000000000000000E+000   order=                     NaN
+ VARIABLES="X","Y","uz"
+ ZONE F=POINT, I=                    64 J=                    64
+ tn=   6.00000000000000     
+ nx=                    64 ny=                    64
+ L1-rh=  0.000000000000000E+000   order=                     NaN
+ Linf-rh=  0.000000000000000E+000   order=                     NaN
+ L2-rh=  0.000000000000000E+000   order=                     NaN
+ VARIABLES="X","Y","uz"
+ ZONE F=POINT, I=                    64 J=                    64
+ tn=   7.00000000000000     
+ nx=                    64 ny=                    64
+ L1-rh=  0.000000000000000E+000   order=                     NaN
+ Linf-rh=  0.000000000000000E+000   order=                     NaN
+ L2-rh=  0.000000000000000E+000   order=                     NaN
+ VARIABLES="X","Y","uz"
+ ZONE F=POINT, I=                    64 J=                    64
+ tn=   8.00000000000000     
+ nx=                    64 ny=                    64
+ L1-rh=  0.000000000000000E+000   order=                     NaN
+ Linf-rh=  0.000000000000000E+000   order=                     NaN
+ L2-rh=  0.000000000000000E+000   order=                     NaN
+ VARIABLES="X","Y","uz"
+ ZONE F=POINT, I=                    64 J=                    64
+ tn=   9.00000000000000     
+ nx=                    64 ny=                    64
+ L1-rh=  0.000000000000000E+000   order=                     NaN
+ Linf-rh=  0.000000000000000E+000   order=                     NaN
+ L2-rh=  0.000000000000000E+000   order=                     NaN
+ VARIABLES="X","Y","uz"
+ ZONE F=POINT, I=                    64 J=                    64
+ tn=   10.0000000000000     
+ nx=                    64 ny=                    64
+ L1-rh=  0.000000000000000E+000   order=                     NaN
+ Linf-rh=  0.000000000000000E+000   order=                     NaN
+ L2-rh=  0.000000000000000E+000   order=                     NaN

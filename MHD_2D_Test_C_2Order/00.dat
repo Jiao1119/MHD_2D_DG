@@ -1,0 +1,8 @@
+ VARIABLES="X","Y","Magnetica pressure"
+ ZONE F=POINT, I=100, J=100
+ VARIABLES="X","Y","Magnetica pressure"
+ ZONE F=POINT, I=100, J=100
+ VARIABLES="X","Y","Magnetica pressure"
+ ZONE F=POINT, I=100, J=100
+ VARIABLES="X","Y","Magnetica pressure"
+ ZONE F=POINT, I=100, J=100
