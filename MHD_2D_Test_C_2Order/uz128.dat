@@ -1,7 +1,0 @@
- VARIABLES="X","Y","uz"
- ZONE F=POINT, I=                   128 J=                   128
- tn=   5.00000000000000     
- nx=                   128 ny=                   128
- L1-rh=  0.000000000000000E+000   order=                     NaN
- Linf-rh=  0.000000000000000E+000   order=                     NaN
- L2-rh=  0.000000000000000E+000   order=                     NaN
